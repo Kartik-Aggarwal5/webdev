@@ -90,20 +90,22 @@
     height: 21.1%;
     width: 13%;
     background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .ver_strip{
     width: 22%;
     height: 100%;
     position: absolute;
-    margin-left: 73px;
+    
   }
 
   .hor_strip{
     height: 21%;
     width: 100%;
     position: absolute;
-    margin-top: 66px;
   }
 
   /* Colors/ Feel free to add your own! */
